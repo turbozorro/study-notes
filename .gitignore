@@ -1,2 +1,4 @@
 .DS_Store
-./python-lambdas/.ipynb_checkpoints
+**/-checkpoint.ipynb
+**/.ipynb_checkpoints/
+
